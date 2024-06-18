@@ -3,7 +3,7 @@ A simple python utility to extract latitude longitude coordinates from iOS (HEIC
 
 # Usage
 ## Call Format
-python photo_locator.py [photo_directory] [location_to_output_GeoJSON]
+python photolocator.py [photo_directory] [location_to_output_GeoJSON]
 
 ## Example Call
-python photo_locator.py Documents/photos photo_locations.geojson
+python photolocator.py Documents/photos photo_locations.geojson
