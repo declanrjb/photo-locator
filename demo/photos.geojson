@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00529444444444,
+                    38.88871666666667
+                ]
+            },
+            "properties": {
+                "name": "IMG_7570",
+                "GPSDateStamp": "2025:08:07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02814444444445,
+                    38.894975
+                ]
+            },
+            "properties": {
+                "name": "IMG_7505",
+                "GPSDateStamp": "2025:08:04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.22063333333334,
+                    41.293819444444445
+                ]
+            },
+            "properties": {
+                "name": "IMG_8242",
+                "GPSDateStamp": "2025:11:01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.21808611111112,
+                    41.28873333333333
+                ]
+            },
+            "properties": {
+                "name": "IMG_7885",
+                "GPSDateStamp": "2025:09:06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.003625,
+                    38.88816944444444
+                ]
+            },
+            "properties": {
+                "name": "IMG_7581",
+                "GPSDateStamp": "2025:08:08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.22363333333334,
+                    41.299080555555555
+                ]
+            },
+            "properties": {
+                "name": "IMG_8117",
+                "GPSDateStamp": "2025:10:12"
+            }
+        }
+    ]
+}
